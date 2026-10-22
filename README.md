@@ -1,7 +1,7 @@
 <h1 align="center">Sami Hussain</h1>
 
 <p align="center">
-  Web developer in Karachi, Pakistan.<br>
+  Software developer in Karachi, Pakistan.<br>
   I build storefronts and websites for clients with Next.js, React, and Shopify.
 </p>
 
