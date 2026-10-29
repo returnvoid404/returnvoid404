@@ -20,7 +20,7 @@ I'm a Computer Science student at the University of Karachi with a diploma in So
 A Shopify theme written from scratch in Liquid for an online store. It handles product variants, the cart, favorites, predictive search and recommendations, and the merchant can edit settings and content without touching code.
 `Liquid` `JavaScript` `HTML` `CSS`
 
-**[United Enterprises](https://safety-equipement.vercel.app)** | Website modernization
+**[United Enterprises](https://uesafety.com)** | Website modernization
 A client's WordPress website rebuilt as a Next.js application, with a MongoDB-backed product catalog, category browsing, and a WhatsApp inquiry button on product pages.
 `Next.js` `Tailwind CSS` `MongoDB` `Vercel`
 
